@@ -2,7 +2,5 @@ hello
  hiii
  fine???
  no I'm not fine
- how about a trip??
- Nah! may be next sunday....
-byee
+ byee
 
